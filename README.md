@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Suraj Kumar]
+Suraj Kumar
 
 ### Full Stack Developer | Tech Explorer
 
@@ -23,12 +23,6 @@
 
 ### 🚀 Connect with Me:
 Check out my LinkedIn: [Suraj Kumar](https://www.linkedin.com/in/suraj-kumar-99a085295/)
-
----
-
-### 📈 Profile Stats:
-
-![Profile View Count](https://visitcount.itsvg.in/api?id=Suraj-787&icon=1&color=7)
 
 ---
 
