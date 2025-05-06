@@ -1,19 +1,19 @@
-###Suraj Kumar
+### Suraj Kumar
 
-### Full Stack Developer | Tech Explorer
+## Full Stack Developer | Tech Explorer
 
 ---
 
-### Focus: 
+## Focus: 
 - Full Stack Development
 - Web3
 
-### Goal: 
+## Goal: 
 - To Build Great Products
 
 ---
 
-### Let's Talk:
+## Let's Talk:
 - Full Stack
 - AI
 - System Internals
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Connect with Me:
+## Connect with Me:
 Check out my LinkedIn: [Suraj Kumar](https://www.linkedin.com/in/suraj-kumar-99a085295/)
 
 ---
